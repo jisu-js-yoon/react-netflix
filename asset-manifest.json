@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/jisu-js-yoon/react-netflix/static/js/main.6d97247e.js",
-    "index.html": "/jisu-js-yoon/react-netflix/index.html",
-    "main.6d97247e.js.map": "/jisu-js-yoon/react-netflix/static/js/main.6d97247e.js.map"
+    "main.js": "/react-netflix/static/js/main.f33f4603.js",
+    "index.html": "/react-netflix/index.html",
+    "main.f33f4603.js.map": "/react-netflix/static/js/main.f33f4603.js.map"
   },
   "entrypoints": [
-    "static/js/main.6d97247e.js"
+    "static/js/main.f33f4603.js"
   ]
 }
